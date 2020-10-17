@@ -10,7 +10,7 @@ module.exports = {
       },
       c_name: {
         type: Sequelize.STRING
-      },
+      },เร
       c_lastname: {
         type: Sequelize.STRING
       },
